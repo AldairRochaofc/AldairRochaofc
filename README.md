@@ -6,7 +6,7 @@
 
 <p>&nbsp;&nbsp;</p>
 
-# Contacts:point_down:
+# Socials
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/aldair-rocha-581058277/)](https://www.linkedin.com/in/aldair-rocha-581058277/)
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/AldairRochaofc)](https://github.com/AldairRochaofc)
@@ -15,21 +15,19 @@
 
 <p>&nbsp;&nbsp;</p>
 
-# :computer: Technologies :brain:
+# Technologies
 
-![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-35495E?style=for-the-badge&logo=cypress&logoColor=4FC08D)
-![SQL Server](https://camo.githubusercontent.com/88afa53aae635c5b291df317cc91e6cd48a551a28a84a6add3664d311fe28765/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f667425323053514c2532305365727665722d4343323932373f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f667425323073716c253230736572766572266c6f676f436f6c6f723d7768697465)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Azure Devops](https://camo.githubusercontent.com/e635c8509d513fd5ed5c9127dadd45efa44cc00a2be24da4e71bfd8afe58c631/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d6963726f736f6674253230617a7572652d3030383944363f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742d617a757265266c6f676f436f6c6f723d7768697465)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![SQL SERVER](https://img.shields.io/badge/Cypress-35495E?style=for-the-badge&logo=cypress&logoColor=4FC08D)
+
 ![Github Actions](https://camo.githubusercontent.com/10fbc037dc192b6e84b8bcd8b9eb1762841606a8e5476cbf1fe4d5fcb17fed48/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875625f416374696f6e732d3230383846463f7374796c653d666f722d7468652d6261646765266c6f676f3d6769746875622d616374696f6e73266c6f676f436f6c6f723d7768697465)
-![Robot](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
+![PhP](https://img.shields.io/badge/php-0e2a85?style=for-the-badge&logo=PhP&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VisualStudioCode-3d85c6?style=for-the-badge&logo=VisualStudioCode&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![HTML 5](https://img.shields.io/badge/HTML%205-ff722c?style=for-the-badge&logo=&logoColor=white)
+![CSS 3](https://img.shields.io/badge/CSS%203%20-4283fc?style=for-the-badge&logo=&logoColor=white)
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
