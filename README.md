@@ -2,7 +2,7 @@
 <img align="center" style="margin-bottom:100px"  width=100%; max-width=100%; height=auto; display=block; src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">❤️ Atualmente, exerço a função de Desenvolvedor FullStack Junior com quase de um ano de experiência, pratiquei bastante com alguns projetos pessoais , dentre eles o mais recente, Landing Page , Página de Login Validada,Consumo de API com PhP puro entre outros projetos. Além de ser um apaixonado por programação estou estudando Golang, MongoDB, POO Php, e não pretendo parar.</p>&nbsp;
+<p align="center">❤️ Atualmente, exerço a função de Desenvolvedor FullStack Júnior com quase um ano de experiência. Pratiquei bastante com alguns projetos pessoais, dentre eles o mais recente: Landing Page, Página de Login Validada, Consumo de API com PHP puro, entre outros projetos. Além de ser um apaixonado por programação, estou estudando Golang, MongoDB, POO em PHP e não pretendo parar. Estou em constante evolução e busco oportunidades para desenvolver minha carreira, contribuindo para projetos empolgantes e crescendo junto com a equipe ou empresa.</p>&nbsp;
 
 <p>&nbsp;&nbsp;</p>
 
