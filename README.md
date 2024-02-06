@@ -1,16 +1,40 @@
-### Hi there 👋
 
-<!--
-**AldairRochaofc/AldairRochaofc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="center" style="margin-bottom:100px"  width=100%; max-width=100%; height=auto; display=block; src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" />
+&nbsp;&nbsp;&nbsp;
 
-Here are some ideas to get you started:
+<p align="center">❤️ Atualmente, exerço a função de Desenvolvedor FullStack Junior com quase de um ano de experiência, pratiquei bastante com alguns projetos pessoais , dentre eles o mais recente, Landing Page , Página de Login Validada,Consumo de API com PhP puro entre outros projetos.</p>&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>&nbsp;&nbsp;</p>
+
+# Contacts:point_down:
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/aldair-rocha-581058277/)](https://www.linkedin.com/in/aldair-rocha-581058277/)
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/AldairRochaofc)](https://github.com/AldairRochaofc)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/dev.aldairrochaofc)](https://instagram.com/dev.aldairrochaofc)
+[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send/?phone=5571983080243&text&type=phone_number&app_absent=0)](https://api.whatsapp.com/send/?phone=5571983080243&text&type=phone_number&app_absent=0)
+
+<p>&nbsp;&nbsp;</p>
+
+# :computer: Technologies :brain:
+
+![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-35495E?style=for-the-badge&logo=cypress&logoColor=4FC08D)
+![SQL Server](https://camo.githubusercontent.com/88afa53aae635c5b291df317cc91e6cd48a551a28a84a6add3664d311fe28765/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f667425323053514c2532305365727665722d4343323932373f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f667425323073716c253230736572766572266c6f676f436f6c6f723d7768697465)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Azure Devops](https://camo.githubusercontent.com/e635c8509d513fd5ed5c9127dadd45efa44cc00a2be24da4e71bfd8afe58c631/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d6963726f736f6674253230617a7572652d3030383944363f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742d617a757265266c6f676f436f6c6f723d7768697465)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Github Actions](https://camo.githubusercontent.com/10fbc037dc192b6e84b8bcd8b9eb1762841606a8e5476cbf1fe4d5fcb17fed48/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875625f416374696f6e732d3230383846463f7374796c653d666f722d7468652d6261646765266c6f676f3d6769746875622d616374696f6e73266c6f676f436f6c6f723d7768697465)
+![Robot](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
+![VS Code](https://img.shields.io/badge/VisualStudioCode-3d85c6?style=for-the-badge&logo=VisualStudioCode&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+<p>&nbsp;&nbsp;</p>
+
+![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com?user=eduardostr&theme=radical&mode=weekly)
+[![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardostr&layout=compact&langs_count=6&theme=radical&mode=weekly)](https://github.com/eduardostr)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=eduardostr&theme=chartreuse-dark&show_icons=true)](https://github.com/eduardostr/github-readme-stats) -->
