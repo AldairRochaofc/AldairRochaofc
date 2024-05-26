@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="[https://github.com/AldairRochaofc/AldairRochaofc/assets/97697928/2c964a53-346e-4bab-b7ff-67ca000100d4](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)" />
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="ttps://github.com/AldairRochaofc/AldairRochaofc/assets/97697928/2c964a53-346e-4bab-b7ff-67ca000100d4](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)" />
 &nbsp;&nbsp;&nbsp;
 
 
