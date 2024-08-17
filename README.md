@@ -3,7 +3,7 @@
 &nbsp;&nbsp;&nbsp;
 
 
-<p align="center">Olá! Sou estudante de Engenharia de Software, apaixonado por desenvolvimento de tecnologia. Atualmente, estou focado em aprimorar minhas habilidades em programação, desenvolvimento de sistemas e gestão de projetos. Tenho experiência em linguagens como Java, PhP e JavaScript, além de trabalhar com frameworks modernos como React</p>&nbsp;
+<p align="center">Hi, I'm a Software Engineering student with a passion for technology development. I'm currently focused on improving my skills in programming, systems development and project management. I have experience in languages such as Java, PhP and JavaScript, as well as working with modern frameworks such as React</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=AldairRochaofc&theme=radical&mode=weekly" />
