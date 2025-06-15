@@ -9,8 +9,8 @@
   <a href="https://www.linkedin.com/in/aldair-rocha-202b49343/">
     <img src="https://img.shields.io/badge/-Aldair%20Rocha-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:aldairwebdeveloper@gmail.com">
-    <img src="https://img.shields.io/badge/-aldairwebdeveloper@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
+  <a href="mailto:aldair.santosrochadev@gmail.com">
+    <img src="https://img.shields.io/badge/-aldair.santosrochadev@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
 </p>
 
